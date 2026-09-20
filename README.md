@@ -5,7 +5,13 @@
 ### `Ricky-devprod`
 
 <p>
-<strong>🚀 AI Orchestration • Automation • Chatbots • Backend Logic</strong>
+  <strong>🚀 AI Orchestration • Automation • Chatbots • Backend Logic</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/followers/Ricky-devprod?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Ricky-devprod?style=for-the-badge&logo=github&label=STARS" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=Ricky-devprod&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
 </div>
@@ -19,15 +25,19 @@ I use **AI as a development multiplier** — accelerating prototypes, exploring 
 But AI isn't the final authority.
 
 ### 🧠 Prompt Engineer
+
 Driving rapid prototyping through contextual prompting.
 
 ### 🛠️ Manual Override
+
 Refactoring code, writing core logic, debugging, and fixing AI-generated failures.
 
 ### ⚙️ Automator
+
 Building AI systems, WhatsApp workflows, Telegram interfaces, and automation.
 
 ### 🧩 System Architect
+
 Connecting everything into practical and maintainable systems.
 
 > **AI generates possibilities. Engineering turns them into reality.**
@@ -141,17 +151,27 @@ Area	Focus
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-devprod&theme=tokyonight&hide_border=true"> </div>
 🧪 Current System Status
 ╔══════════════════════════════════════════════╗
+║                                              ║
 ║              SYSTEM STATUS                   ║
+║                                              ║
 ╠══════════════════════════════════════════════╣
 ║                                              ║
 ║  [✓] AI-Assisted Development                ║
-║  [✓] Prompt Engineering                      ║
+║                                              ║
+║  [✓] Prompt Engineering                     ║
+║                                              ║
 ║  [✓] Backend Automation                     ║
+║                                              ║
 ║  [✓] Chatbot Architecture                   ║
+║                                              ║
 ║  [✓] WhatsApp Workflows                     ║
+║                                              ║
 ║  [✓] Telegram Interfaces                    ║
+║                                              ║
 ║  [✓] Runtime Debugging                      ║
+║                                              ║
 ║  [✓] Core System Logic                      ║
+║                                              ║
 ║                                              ║
 ║  [→] Building the next thing...             ║
 ║                                              ║
@@ -173,5 +193,9 @@ and fix the compilation errors.”
 <br>
 
 Ricky-devprod
+
+<br>
+
+🎨 Powered by pure intent and algorithmic assistance.
 
 </div> ``` :::
