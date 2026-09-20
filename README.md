@@ -1,3 +1,4 @@
+````
 <div align="center">
 
 # ⚡ V I B E C O D E R ⚡
@@ -94,3 +95,98 @@ Connecting everything into practical and maintainable systems.
 │  ██████████                                 │
 │                                             │
 └─────────────────────────────────────────────┘
+````
+
+---
+
+ ## 🤖 AI × Human Engineering
+
+```
+                  💡 IDEA
+                    │
+                    ▼
+             🧠 AI PROMPTING
+                    │
+                    ▼
+              ⚡ GENERATION
+                    │
+                    ▼
+             👨‍💻 HUMAN REVIEW
+                    │
+                    ▼
+            🛠️ MANUAL OVERRIDE
+                    │
+                    ▼
+               🐛 DEBUGGING
+                    │
+                    ▼
+                🧪 TESTING
+                    │
+                    ▼
+                 🚀 DEPLOY
+```
+
+---
+
+ ## 🚀 What I Build
+
+ | Area | Focus |
+| --- | --- |
+| 🤖 Bots | WhatsApp & Telegram |
+| 🧠 AI | AI integrations |
+| ⚙️ Backend | APIs & automation |
+| 🐍 Python | Scripts & tools |
+| 🟢 Node.js | Backend & bots |
+| 💻 C | Core logic |
+| 🌐 Web | HTML, CSS & JavaScript |
+| 🔮 Experiments | Developer tools |
+
+---
+
+ ## 📊 GitHub Statistics
+
+ \<div align="center"\> \<img src="https://github-readme-stats.vercel.app/api?username=Ricky-devprod&show\_icons=true&theme=tokyonight&hide\_border=true" width="48%"\> \<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-devprod&layout=compact&theme=tokyonight&hide\_border=true" width="48%"\> \<br\>\<br\>
+
+ \<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-devprod&theme=tokyonight&hide\_border=true"\> \</div\>
+---
+
+ ## 🧪 Current System Status
+
+```
+╔══════════════════════════════════════════════╗
+║                                              ║
+║              SYSTEM STATUS                   ║
+║                                              ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  [✓] AI-Assisted Development                ║
+║  [✓] Prompt Engineering                     ║
+║  [✓] Backend Automation                     ║
+║  [✓] Chatbot Architecture                   ║
+║  [✓] WhatsApp Workflows                     ║
+║  [✓] Telegram Interfaces                    ║
+║  [✓] Runtime Debugging                      ║
+║  [✓] Core System Logic                      ║
+║                                              ║
+║  [→] Building the next thing...             ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ ## 🪐 Manifest
+
+ \<div align="center"\> > **“Let the machine write the syntax.**
+>
+>  **Let the human inject the soul...**
+>
+>  **and fix the compilation errors.”**
+
+ \<br\> **⚡ VIBECODE • AUTOMATE • BUILD • DEBUG • SHIP ⚡**
+
+ \<br\> `Ricky-devprod`
+
+ \<br\> 🎨 **Powered by pure intent and algorithmic assistance.**
+
+ \</div\> \`\`\`
