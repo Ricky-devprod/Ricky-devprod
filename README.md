@@ -68,7 +68,7 @@ Connecting everything into practical and maintainable systems.
 
 ## 🧬 System Architecture
 
-```text
+text
 ┌─────────────────────────────────────────────┐
 │                                             │
 │              VIBECODER SYSTEM               │
@@ -198,4 +198,4 @@ Ricky-devprod
 
 🎨 Powered by pure intent and algorithmic assistance.
 
-</div> ``` :::
+</div> 
