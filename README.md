@@ -198,4 +198,4 @@ Ricky-devprod
 
 🎨 Powered by pure intent and algorithmic assistance.
 
-</div> 
+</div>  :::
