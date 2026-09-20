@@ -1,4 +1,3 @@
-````
 <div align="center">
 
 # ⚡ V I B E C O D E R ⚡
@@ -95,64 +94,62 @@ Connecting everything into practical and maintainable systems.
 │  ██████████                                 │
 │                                             │
 └─────────────────────────────────────────────┘
-````
 
----
+🤖 AI × Human Engineering
+💡 IDEA
 
- ## 🤖 AI × Human Engineering
+   │
+   ▼
 
-```
-                  💡 IDEA
-                    │
-                    ▼
-             🧠 AI PROMPTING
-                    │
-                    ▼
-              ⚡ GENERATION
-                    │
-                    ▼
-             👨‍💻 HUMAN REVIEW
-                    │
-                    ▼
-            🛠️ MANUAL OVERRIDE
-                    │
-                    ▼
-               🐛 DEBUGGING
-                    │
-                    ▼
-                🧪 TESTING
-                    │
-                    ▼
-                 🚀 DEPLOY
-```
+🧠 AI PROMPTING
 
----
+   │
+   ▼
 
- ## 🚀 What I Build
+⚡ GENERATION
 
- | Area | Focus |
-| --- | --- |
-| 🤖 Bots | WhatsApp & Telegram |
-| 🧠 AI | AI integrations |
-| ⚙️ Backend | APIs & automation |
-| 🐍 Python | Scripts & tools |
-| 🟢 Node.js | Backend & bots |
-| 💻 C | Core logic |
-| 🌐 Web | HTML, CSS & JavaScript |
-| 🔮 Experiments | Developer tools |
+   │
+   ▼
 
----
+👨‍💻 HUMAN REVIEW
 
- ## 📊 GitHub Statistics
+   │
+   ▼
 
- \<div align="center"\> \<img src="https://github-readme-stats.vercel.app/api?username=Ricky-devprod&show\_icons=true&theme=tokyonight&hide\_border=true" width="48%"\> \<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-devprod&layout=compact&theme=tokyonight&hide\_border=true" width="48%"\> \<br\>\<br\>
+🛠️ MANUAL OVERRIDE
 
- \<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-devprod&theme=tokyonight&hide\_border=true"\> \</div\>
----
+   │
+   ▼
 
- ## 🧪 Current System Status
+🐛 DEBUGGING
 
-```
+   │
+   ▼
+
+🧪 TESTING
+
+   │
+   ▼
+
+🚀 DEPLOY
+
+🚀 What I Build
+Area	Focus
+🤖 Bots	WhatsApp & Telegram
+🧠 AI	AI integrations
+⚙️ Backend	APIs & automation
+🐍 Python	Scripts & tools
+🟢 Node.js	Backend & bots
+💻 C	Core logic
+🌐 Web	HTML, CSS & JavaScript
+🔮 Experiments	Developer tools
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ricky-devprod&show_icons=true&theme=tokyonight&hide_border=true" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-devprod&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-devprod&theme=tokyonight&hide_border=true"> </div>
+🧪 Current System Status
 ╔══════════════════════════════════════════════╗
 ║                                              ║
 ║              SYSTEM STATUS                   ║
@@ -160,33 +157,45 @@ Connecting everything into practical and maintainable systems.
 ╠══════════════════════════════════════════════╣
 ║                                              ║
 ║  [✓] AI-Assisted Development                ║
+║                                              ║
 ║  [✓] Prompt Engineering                     ║
+║                                              ║
 ║  [✓] Backend Automation                     ║
+║                                              ║
 ║  [✓] Chatbot Architecture                   ║
+║                                              ║
 ║  [✓] WhatsApp Workflows                     ║
+║                                              ║
 ║  [✓] Telegram Interfaces                    ║
+║                                              ║
 ║  [✓] Runtime Debugging                      ║
+║                                              ║
 ║  [✓] Core System Logic                      ║
+║                                              ║
 ║                                              ║
 ║  [→] Building the next thing...             ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
-```
 
----
+🪐 Manifest
+<div align="center">
 
- ## 🪐 Manifest
+“Let the machine write the syntax.
 
- \<div align="center"\> > **“Let the machine write the syntax.**
->
->  **Let the human inject the soul...**
->
->  **and fix the compilation errors.”**
+Let the human inject the soul...
 
- \<br\> **⚡ VIBECODE • AUTOMATE • BUILD • DEBUG • SHIP ⚡**
+and fix the compilation errors.”
 
- \<br\> `Ricky-devprod`
+<br>
 
- \<br\> 🎨 **Powered by pure intent and algorithmic assistance.**
+⚡ VIBECODE • AUTOMATE • BUILD • DEBUG • SHIP ⚡
 
- \</div\> \`\`\`
+<br>
+
+Ricky-devprod
+
+<br>
+
+🎨 Powered by pure intent and algorithmic assistance.
+
+</div> ``` :::
