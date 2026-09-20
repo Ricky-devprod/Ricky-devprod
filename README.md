@@ -1,212 +1,137 @@
 <div align="center">
 ⚡ V I B E C O D E R ⚡
+        
 Ricky-devprod
-🚀 STATUS: Orchestrating AI // Scripting Automation // Building Chatbots & Core Logic
-
-
-
-
-
-
-</div>
+<p> <strong>🚀 AI Orchestration • Automation • Chatbots • Backend Logic</strong> </p> <p> <img src="https://img.shields.io/github/followers/Ricky-devprod?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"> <img src="https://img.shields.io/github/stars/Ricky-devprod?style=for-the-badge&logo=github&label=STARS" alt="Stars"> <img src="https://komarev.com/ghpvc/?username=Ricky-devprod&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"> </p> </div>
 🔮 The Engineering Workflow
 
-I use AI as a force multiplier for engineering — accelerating prototypes, exploring architectures, generating boilerplate, and solving complex implementation problems.
+I use AI as a development multiplier — accelerating prototypes, generating ideas, exploring architectures, and automating repetitive engineering work.
 
-But AI is not the final authority.
+But AI isn't the final authority.
 
-I step in when the generated solution needs real engineering judgment: refactoring architecture, writing core logic, debugging runtime failures, optimizing execution, and making the system actually work.
+When generated code breaks, becomes inefficient, or doesn't fit the system, I step in manually.
 
-🧠 The Prompt Engineer — Turning ideas and requirements into structured implementations through contextual prompting.
+🧠 Prompt Engineer
 
-🛠️ The Manual Override — Refactoring generated code, debugging failures, tracing runtime behavior, and taking control when automation reaches its limits.
+Designing prompts and contexts that turn ideas into working prototypes and structured implementations.
 
-⚙️ The Automator — Building intelligent workflows, AI-powered systems, customized WhatsApp automation, and dynamic Telegram interfaces.
+🛠️ Manual Override
 
-🧩 The Architect — Connecting the pieces into systems that are maintainable, extensible, and actually useful.
+Refactoring generated code, debugging runtime failures, writing core logic, and fixing problems when AI reaches its limits.
+
+⚙️ Automator
+
+Building intelligent automation, chatbot systems, WhatsApp workflows, Telegram interfaces, and AI-powered tools.
+
+🧩 System Architect
+
+Connecting individual components into systems that are practical, maintainable, and scalable.
+
+<br>
 
 AI generates possibilities. Engineering turns them into reality.
 
 🛠️ Tech Stack
-💻 Languages & Core
-
-
-
-
-
-
-
+💻 Languages
+<p> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </p>
 ⚙️ Backend & Runtime
-
-
-
-
-🤖 Automation & Bots
-
-
-
-
-
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Backend-Automation-00A67E?style=for-the-badge"> </p>
+🤖 Bots & Automation
+<p> <img src="https://img.shields.io/badge/WhatsApp-Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> <img src="https://img.shields.io/badge/Telegram-Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"> <img src="https://img.shields.io/badge/AI-Orchestration-8A2BE2?style=for-the-badge"> </p>
 🧬 System Architecture
-┌─────────────────────────────────────────────────────────┐
-│                    VIBECODER SYSTEM                     │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  🧠 AI GENERATION & ORCHESTRATION        ████████████ 30% │
-│                                                         │
-│  ⚙️  C — CORE LOGIC & INFRASTRUCTURE     ████████     20% │
-│                                                         │
-│  🎨 HTML5 / CSS3 — STRUCTURE & UI        ████████     20% │
-│                                                         │
-│  ⚡ JavaScript — DYNAMIC INTERACTIONS     ████         10% │
-│                                                         │
-│  🟢 Node.js — BACKEND & BOT SYSTEMS      ████         10% │
-│                                                         │
-│  🐍 Python — AUTOMATION & AI INTEGRATION  ████         10% │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────┐
+│              VIBECODER SYSTEM               │
+├─────────────────────────────────────────────┤
+│                                             │
+│  🧠 AI ORCHESTRATION              30%       │
+│  ████████████████████████████████           │
+│                                             │
+│  ⚙️  C — CORE LOGIC                20%      │
+│  ████████████████████                       │
+│                                             │
+│  🎨 HTML / CSS — FRONTEND          20%      │
+│  ████████████████████                       │
+│                                             │
+│  ⚡ JavaScript — INTERACTIONS      10%      │
+│  ██████████                                 │
+│                                             │
+│  🟢 Node.js — BACKEND              10%      │
+│  ██████████                                 │
+│                                             │
+│  🐍 Python — AUTOMATION             10%     │
+│  ██████████                                 │
+│                                             │
+└─────────────────────────────────────────────┘
 
 🤖 AI × Human Engineering
-        ┌───────────────┐
-        │     IDEA      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │  AI PROMPTING │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   GENERATION  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │ HUMAN REVIEW  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │ MANUAL OVERRIDE│
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │ DEBUG / TEST  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   DEPLOY 🚀   │
-        └───────────────┘
+             💡 IDEA
+                │
+                ▼
+        🧠 AI PROMPTING
+                │
+                ▼
+         ⚡ GENERATION
+                │
+                ▼
+       👨‍💻 HUMAN REVIEW
+                │
+                ▼
+       🛠️ MANUAL OVERRIDE
+                │
+                ▼
+          🐛 DEBUGGING
+                │
+                ▼
+          🧪 TESTING
+                │
+                ▼
+           🚀 DEPLOY
 
-The philosophy
-
-Let the machine write the syntax.
-Let the human inject the logic.
-Let the system prove itself at runtime.
-
-📊 GitHub Diagnostics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ricky-devprod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-devprod&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-devprod&theme=tokyonight&hide_border=true" /> </div>
-🧪 Current Focus
-[✓] AI-assisted development
-[✓] Prompt engineering
-[✓] Backend automation
-[✓] Chatbot architecture
-[✓] WhatsApp workflows
-[✓] Telegram interfaces
-[✓] Runtime debugging
-[✓] Core system logic
-[→] Building the next thing...
-
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ricky-devprod&show_icons=true&theme=tokyonight&hide_border=true" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-devprod&layout=compact&theme=tokyonight&hide_border=true" width="48%"> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-devprod&theme=tokyonight&hide_border=true"> </div>
 🚀 What I Build
+🧠 Area	🔧 Focus
+AI	AI-assisted development & integrations
+🤖 Bots	WhatsApp & Telegram automation
+⚙️ Backend	APIs, services & automation
+🐍 Python	Scripts, tools & AI integrations
+🟢 Node.js	Backend & bot architecture
+💻 C	Core logic & systems
+🌐 Web	HTML, CSS & JavaScript
+🔮 Experiments	New ideas & developer tools
+🧪 Current System Status
+╔══════════════════════════════════════╗
+║          SYSTEM STATUS               ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  [✓] AI-Assisted Development         ║
+║  [✓] Prompt Engineering              ║
+║  [✓] Backend Automation              ║
+║  [✓] Chatbot Architecture            ║
+║  [✓] WhatsApp Workflows              ║
+║  [✓] Telegram Interfaces             ║
+║  [✓] Runtime Debugging               ║
+║  [✓] Core System Logic               ║
+║                                      ║
+║  [→] Building the next thing...      ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-🤖 AI-assisted applications
-
-💬 WhatsApp automation systems
-
-✈️ Telegram bots and interfaces
-
-⚙️ Backend automation
-
-🧠 AI-integrated workflows
-
-🔧 Custom scripting solutions
-
-🧩 Chatbot logic and orchestration
-
-🛠️ Experimental developer tools
-
-📈 Contribution Matrix
-<div align="center">
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║     CODE  →  AUTOMATE  →  DEBUG  →  DEPLOY            ║
-║                                                        ║
-║     PROMPT → GENERATE → REFACTOR → SHIP               ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-
-</div>
 🪐 Manifest
 <div align="center">
-
 “Let the machine write the syntax.
 Let the human inject the soul...
 and fix the compilation errors.”
-
 <br>
+
 ⚡ VIBECODE • AUTOMATE • BUILD • DEBUG • SHIP ⚡
+
 <br>
 
-</div>
-<div align="center">
+Ricky-devprod
+
+<br>
+
 🎨 Powered by pure intent and algorithmic assistance.
 
-Ricky-devprod // VIBECODER
-
-</div>* **The Automator:** Engineering intelligent AI creations, customized WhatsApp workflows, and dynamic Telegram interfaces.
-
----
-
-### 🛠️ Tech Stack & Co-Pilots
-
-<div align="left">
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **System Logic** | ![C](https://shields.io) |
-| **Frontend Foundation** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
-| **Scripting & Backend** | ![JavaScript](https://shields.io) ![Node.js](https://shields.io) ![Python](https://shields.io) |
-| **Bot Deployments** | ![WhatsApp](https://shields.io) ![Telegram](https://shields.io) |
-| **Generation Engine** | ![AI](https://shields.io🤖-purple?style=for-the-badge) |
-
-</div>
-
-### 📊 System Architecture Breakdown
-```text
-[▓▓▓▓▓▓▓▓▓▓] 20% -- C Language (Core Logic & Infrastructure)
-[▓▓▓▓▓▓▓▓▓▓] 20% -- HTML5 & CSS3 (Visual Structure & Layout)
-[▓▓▓▓▓]      10% -- JavaScript (Dynamic Frontend Interactions)
-[▓▓▓▓▓]      10% -- Node.js (Scalable Backend Bot Architecture)
-[▓▓▓▓▓]      10% -- Python (Automation Scripting & AI Integrations)
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓█] 30% -- AI Generation & Vibe Coding Orchestration
-```
-
----
-
-### 📈 Diagnostic Statistics
-
-<div align="center">
-
-| Core GitHub Data | Dominant Frameworks |
-| --- | --- |
-| <img src="https://vercel.app" width="400px"/> | <img src="https://vercel.app" width="400px"/> |
-
-</div>
-
----
-
-<div align="center">
-
-### 🪐 Manifest
-*“Let the machine write the syntax. Let the human inject the soul... and fix the compilation errors.”*
-
----
-🎨 Powered by pure intent and algorithmic assistance.
 </div>
